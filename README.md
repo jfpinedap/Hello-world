@@ -1,2 +1,4 @@
 # Hello-world
-this is my first project on GitHub
+This is my first project on GitHub
+
+[Image](hello-world-diagram.html)
